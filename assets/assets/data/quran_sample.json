@@ -1,0 +1,1037 @@
+{
+  "surahs": [
+    {
+      "number": 1,
+      "nameArabic": "الفاتحة",
+      "nameLatin": "Al-Fatihah",
+      "translation": "Pembukaan",
+      "totalAyah": 7,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 2,
+      "nameArabic": "البقرة",
+      "nameLatin": "Al-Baqarah",
+      "translation": "Sapi",
+      "totalAyah": 286,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 3,
+      "nameArabic": "آل عمران",
+      "nameLatin": "Ali 'Imran",
+      "translation": "Keluarga Imran",
+      "totalAyah": 200,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 4,
+      "nameArabic": "النساء",
+      "nameLatin": "An-Nisa",
+      "translation": "Wanita",
+      "totalAyah": 176,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 5,
+      "nameArabic": "المائدة",
+      "nameLatin": "Al-Ma'idah",
+      "translation": "Hidangan",
+      "totalAyah": 120,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 6,
+      "nameArabic": "الأنعام",
+      "nameLatin": "Al-An'am",
+      "translation": "Binatang Ternak",
+      "totalAyah": 165,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 7,
+      "nameArabic": "الأعراف",
+      "nameLatin": "Al-A'raf",
+      "translation": "Tempat Tertinggi",
+      "totalAyah": 206,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 8,
+      "nameArabic": "الأنفال",
+      "nameLatin": "Al-Anfal",
+      "translation": "Rampasan Perang",
+      "totalAyah": 75,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 9,
+      "nameArabic": "التوبة",
+      "nameLatin": "At-Taubah",
+      "translation": "Pengampunan",
+      "totalAyah": 129,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 10,
+      "nameArabic": "يونس",
+      "nameLatin": "Yunus",
+      "translation": "Yunus",
+      "totalAyah": 109,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 11,
+      "nameArabic": "هود",
+      "nameLatin": "Hud",
+      "translation": "Hud",
+      "totalAyah": 123,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 12,
+      "nameArabic": "يوسف",
+      "nameLatin": "Yusuf",
+      "translation": "Yusuf",
+      "totalAyah": 111,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 13,
+      "nameArabic": "الرعد",
+      "nameLatin": "Ar-Ra'd",
+      "translation": "Guruh",
+      "totalAyah": 43,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 14,
+      "nameArabic": "إبراهيم",
+      "nameLatin": "Ibrahim",
+      "translation": "Ibrahim",
+      "totalAyah": 52,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 15,
+      "nameArabic": "الحجر",
+      "nameLatin": "Al-Hijr",
+      "translation": "Hijr",
+      "totalAyah": 99,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 16,
+      "nameArabic": "النحل",
+      "nameLatin": "An-Nahl",
+      "translation": "Lebah",
+      "totalAyah": 128,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 17,
+      "nameArabic": "الإسراء",
+      "nameLatin": "Al-Isra",
+      "translation": "Memperjalankan Malam Hari",
+      "totalAyah": 111,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 18,
+      "nameArabic": "الكهف",
+      "nameLatin": "Al-Kahf",
+      "translation": "Goa",
+      "totalAyah": 110,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 19,
+      "nameArabic": "مريم",
+      "nameLatin": "Maryam",
+      "translation": "Maryam",
+      "totalAyah": 98,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 20,
+      "nameArabic": "طه",
+      "nameLatin": "Taha",
+      "translation": "Taha",
+      "totalAyah": 135,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 21,
+      "nameArabic": "الأنبياء",
+      "nameLatin": "Al-Anbiya",
+      "translation": "Para Nabi",
+      "totalAyah": 112,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 22,
+      "nameArabic": "الحج",
+      "nameLatin": "Al-Hajj",
+      "translation": "Haji",
+      "totalAyah": 78,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 23,
+      "nameArabic": "المؤمنون",
+      "nameLatin": "Al-Mu'minun",
+      "translation": "Orang-Orang Mukmin",
+      "totalAyah": 118,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 24,
+      "nameArabic": "النور",
+      "nameLatin": "An-Nur",
+      "translation": "Cahaya",
+      "totalAyah": 64,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 25,
+      "nameArabic": "الفرقان",
+      "nameLatin": "Al-Furqan",
+      "translation": "Pembeda",
+      "totalAyah": 77,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 26,
+      "nameArabic": "الشعراء",
+      "nameLatin": "Asy-Syu'ara",
+      "translation": "Para Penyair",
+      "totalAyah": 227,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 27,
+      "nameArabic": "النمل",
+      "nameLatin": "An-Naml",
+      "translation": "Semut-semut",
+      "totalAyah": 93,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 28,
+      "nameArabic": "القصص",
+      "nameLatin": "Al-Qasas",
+      "translation": "Kisah-Kisah",
+      "totalAyah": 88,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 29,
+      "nameArabic": "العنكبوت",
+      "nameLatin": "Al-'Ankabut",
+      "translation": "Laba-Laba",
+      "totalAyah": 69,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 30,
+      "nameArabic": "الروم",
+      "nameLatin": "Ar-Rum",
+      "translation": "Romawi",
+      "totalAyah": 60,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 31,
+      "nameArabic": "لقمان",
+      "nameLatin": "Luqman",
+      "translation": "Luqman",
+      "totalAyah": 34,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 32,
+      "nameArabic": "السجدة",
+      "nameLatin": "As-Sajdah",
+      "translation": "Sajdah",
+      "totalAyah": 30,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 33,
+      "nameArabic": "الأحزاب",
+      "nameLatin": "Al-Ahzab",
+      "translation": "Golongan Yang Bersekutu",
+      "totalAyah": 73,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 34,
+      "nameArabic": "سبإ",
+      "nameLatin": "Saba",
+      "translation": "Saba'",
+      "totalAyah": 54,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 35,
+      "nameArabic": "فاطر",
+      "nameLatin": "Fatir",
+      "translation": "Maha Pencipta",
+      "totalAyah": 45,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 36,
+      "nameArabic": "يس",
+      "nameLatin": "Yasin",
+      "translation": "Yasin",
+      "totalAyah": 83,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 37,
+      "nameArabic": "الصافات",
+      "nameLatin": "As-Saffat",
+      "translation": "Barisan-Barisan",
+      "totalAyah": 182,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 38,
+      "nameArabic": "ص",
+      "nameLatin": "Sad",
+      "translation": "Sad",
+      "totalAyah": 88,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 39,
+      "nameArabic": "الزمر",
+      "nameLatin": "Az-Zumar",
+      "translation": "Rombongan",
+      "totalAyah": 75,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 40,
+      "nameArabic": "غافر",
+      "nameLatin": "Gafir",
+      "translation": "Maha Pengampun",
+      "totalAyah": 85,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 41,
+      "nameArabic": "فصلت",
+      "nameLatin": "Fussilat",
+      "translation": "Yang Dijelaskan",
+      "totalAyah": 54,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 42,
+      "nameArabic": "الشورى",
+      "nameLatin": "Asy-Syura",
+      "translation": "Musyawarah",
+      "totalAyah": 53,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 43,
+      "nameArabic": "الزخرف",
+      "nameLatin": "Az-Zukhruf",
+      "translation": "Perhiasan",
+      "totalAyah": 89,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 44,
+      "nameArabic": "الدخان",
+      "nameLatin": "Ad-Dukhan",
+      "translation": "Kabut",
+      "totalAyah": 59,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 45,
+      "nameArabic": "الجاثية",
+      "nameLatin": "Al-Jasiyah",
+      "translation": "Berlutut",
+      "totalAyah": 37,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 46,
+      "nameArabic": "الأحقاف",
+      "nameLatin": "Al-Ahqaf",
+      "translation": "Bukit Pasir",
+      "totalAyah": 35,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 47,
+      "nameArabic": "محمد",
+      "nameLatin": "Muhammad",
+      "translation": "Muhammad",
+      "totalAyah": 38,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 48,
+      "nameArabic": "الفتح",
+      "nameLatin": "Al-Fath",
+      "translation": "Kemenangan",
+      "totalAyah": 29,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 49,
+      "nameArabic": "الحجرات",
+      "nameLatin": "Al-Hujurat",
+      "translation": "Kamar-Kamar",
+      "totalAyah": 18,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 50,
+      "nameArabic": "ق",
+      "nameLatin": "Qaf",
+      "translation": "Qaf",
+      "totalAyah": 45,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 51,
+      "nameArabic": "الذاريات",
+      "nameLatin": "Az-Zariyat",
+      "translation": "Angin yang Menerbangkan",
+      "totalAyah": 60,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 52,
+      "nameArabic": "الطور",
+      "nameLatin": "At-Tur",
+      "translation": "Bukit Tursina",
+      "totalAyah": 49,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 53,
+      "nameArabic": "النجم",
+      "nameLatin": "An-Najm",
+      "translation": "Bintang",
+      "totalAyah": 62,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 54,
+      "nameArabic": "القمر",
+      "nameLatin": "Al-Qamar",
+      "translation": "Bulan",
+      "totalAyah": 55,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 55,
+      "nameArabic": "الرحمن",
+      "nameLatin": "Ar-Rahman",
+      "translation": "Maha Pengasih",
+      "totalAyah": 78,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 56,
+      "nameArabic": "الواقعة",
+      "nameLatin": "Al-Waqi'ah",
+      "translation": "Hari Kiamat",
+      "totalAyah": 96,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 57,
+      "nameArabic": "الحديد",
+      "nameLatin": "Al-Hadid",
+      "translation": "Besi",
+      "totalAyah": 29,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 58,
+      "nameArabic": "المجادلة",
+      "nameLatin": "Al-Mujadilah",
+      "translation": "Gugatan",
+      "totalAyah": 22,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 59,
+      "nameArabic": "الحشر",
+      "nameLatin": "Al-Hasyr",
+      "translation": "Pengusiran",
+      "totalAyah": 24,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 60,
+      "nameArabic": "الممتحنة",
+      "nameLatin": "Al-Mumtahanah",
+      "translation": "Wanita Yang Diuji",
+      "totalAyah": 13,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 61,
+      "nameArabic": "الصف",
+      "nameLatin": "As-Saff",
+      "translation": "Barisan",
+      "totalAyah": 14,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 62,
+      "nameArabic": "الجمعة",
+      "nameLatin": "Al-Jumu'ah",
+      "translation": "Jumat",
+      "totalAyah": 11,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 63,
+      "nameArabic": "المنافقون",
+      "nameLatin": "Al-Munafiqun",
+      "translation": "Orang-Orang Munafik",
+      "totalAyah": 11,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 64,
+      "nameArabic": "التغابن",
+      "nameLatin": "At-Tagabun",
+      "translation": "Pengungkapan Kesalahan",
+      "totalAyah": 18,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 65,
+      "nameArabic": "الطلاق",
+      "nameLatin": "At-Talaq",
+      "translation": "Talak",
+      "totalAyah": 12,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 66,
+      "nameArabic": "التحريم",
+      "nameLatin": "At-Tahrim",
+      "translation": "Pengharaman",
+      "totalAyah": 12,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 67,
+      "nameArabic": "الملك",
+      "nameLatin": "Al-Mulk",
+      "translation": "Kerajaan",
+      "totalAyah": 30,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 68,
+      "nameArabic": "القلم",
+      "nameLatin": "Al-Qalam",
+      "translation": "Pena",
+      "totalAyah": 52,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 69,
+      "nameArabic": "الحاقة",
+      "nameLatin": "Al-Haqqah",
+      "translation": "Hari Kiamat",
+      "totalAyah": 52,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 70,
+      "nameArabic": "المعارج",
+      "nameLatin": "Al-Ma'arij",
+      "translation": "Tempat Naik",
+      "totalAyah": 44,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 71,
+      "nameArabic": "نوح",
+      "nameLatin": "Nuh",
+      "translation": "Nuh",
+      "totalAyah": 28,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 72,
+      "nameArabic": "الجن",
+      "nameLatin": "Al-Jinn",
+      "translation": "Jin",
+      "totalAyah": 28,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 73,
+      "nameArabic": "المزمل",
+      "nameLatin": "Al-Muzzammil",
+      "translation": "Orang Yang Berselimut",
+      "totalAyah": 20,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 74,
+      "nameArabic": "المدثر",
+      "nameLatin": "Al-Muddassir",
+      "translation": "Orang Yang Berkemul",
+      "totalAyah": 56,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 75,
+      "nameArabic": "القيامة",
+      "nameLatin": "Al-Qiyamah",
+      "translation": "Hari Kiamat",
+      "totalAyah": 40,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 76,
+      "nameArabic": "الإنسان",
+      "nameLatin": "Al-Insan",
+      "translation": "Manusia",
+      "totalAyah": 31,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 77,
+      "nameArabic": "المرسلات",
+      "nameLatin": "Al-Mursalat",
+      "translation": "Malaikat Yang Diutus",
+      "totalAyah": 50,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 78,
+      "nameArabic": "النبإ",
+      "nameLatin": "An-Naba",
+      "translation": "Berita Besar",
+      "totalAyah": 40,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 79,
+      "nameArabic": "النازعات",
+      "nameLatin": "An-Nazi'at",
+      "translation": "Malaikat Yang Mencabut",
+      "totalAyah": 46,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 80,
+      "nameArabic": "عبس",
+      "nameLatin": "'Abasa",
+      "translation": "Bermuka Masam",
+      "totalAyah": 42,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 81,
+      "nameArabic": "التكوير",
+      "nameLatin": "At-Takwir",
+      "translation": "Penggulungan",
+      "totalAyah": 29,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 82,
+      "nameArabic": "الإنفطار",
+      "nameLatin": "Al-Infitar",
+      "translation": "Terbelah",
+      "totalAyah": 19,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 83,
+      "nameArabic": "المطففين",
+      "nameLatin": "Al-Mutaffifin",
+      "translation": "Orang-Orang Curang",
+      "totalAyah": 36,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 84,
+      "nameArabic": "الإنشقاق",
+      "nameLatin": "Al-Insyiqaq",
+      "translation": "Terbelah",
+      "totalAyah": 25,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 85,
+      "nameArabic": "البروج",
+      "nameLatin": "Al-Buruj",
+      "translation": "Gugusan Bintang",
+      "totalAyah": 22,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 86,
+      "nameArabic": "الطارق",
+      "nameLatin": "At-Tariq",
+      "translation": "Yang Datang Di Malam Hari",
+      "totalAyah": 17,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 87,
+      "nameArabic": "الأعلى",
+      "nameLatin": "Al-A'la",
+      "translation": "Maha Tinggi",
+      "totalAyah": 19,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 88,
+      "nameArabic": "الغاشية",
+      "nameLatin": "Al-Gasyiyah",
+      "translation": "Hari Kiamat",
+      "totalAyah": 26,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 89,
+      "nameArabic": "الفجر",
+      "nameLatin": "Al-Fajr",
+      "translation": "Fajar",
+      "totalAyah": 30,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 90,
+      "nameArabic": "البلد",
+      "nameLatin": "Al-Balad",
+      "translation": "Negeri",
+      "totalAyah": 20,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 91,
+      "nameArabic": "الشمس",
+      "nameLatin": "Asy-Syams",
+      "translation": "Matahari",
+      "totalAyah": 15,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 92,
+      "nameArabic": "الليل",
+      "nameLatin": "Al-Lail",
+      "translation": "Malam",
+      "totalAyah": 21,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 93,
+      "nameArabic": "الضحى",
+      "nameLatin": "Ad-Duha",
+      "translation": "Duha",
+      "totalAyah": 11,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 94,
+      "nameArabic": "الشرح",
+      "nameLatin": "Asy-Syarh",
+      "translation": "Lapang",
+      "totalAyah": 8,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 95,
+      "nameArabic": "التين",
+      "nameLatin": "At-Tin",
+      "translation": "Buah Tin",
+      "totalAyah": 8,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 96,
+      "nameArabic": "العلق",
+      "nameLatin": "Al-'Alaq",
+      "translation": "Segumpal Darah",
+      "totalAyah": 19,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 97,
+      "nameArabic": "القدر",
+      "nameLatin": "Al-Qadr",
+      "translation": "Kemuliaan",
+      "totalAyah": 5,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 98,
+      "nameArabic": "البينة",
+      "nameLatin": "Al-Bayyinah",
+      "translation": "Bukti Nyata",
+      "totalAyah": 8,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 99,
+      "nameArabic": "الزلزلة",
+      "nameLatin": "Az-Zalzalah",
+      "translation": "Guncangan",
+      "totalAyah": 8,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 100,
+      "nameArabic": "العاديات",
+      "nameLatin": "Al-'Adiyat",
+      "translation": "Kuda Yang Berlari Kencang",
+      "totalAyah": 11,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 101,
+      "nameArabic": "القارعة",
+      "nameLatin": "Al-Qari'ah",
+      "translation": "Hari Kiamat",
+      "totalAyah": 11,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 102,
+      "nameArabic": "التكاثر",
+      "nameLatin": "At-Takasur",
+      "translation": "Bermegah-Megahan",
+      "totalAyah": 8,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 103,
+      "nameArabic": "العصر",
+      "nameLatin": "Al-'Asr",
+      "translation": "Masa",
+      "totalAyah": 3,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 104,
+      "nameArabic": "الهمزة",
+      "nameLatin": "Al-Humazah",
+      "translation": "Pengumpat",
+      "totalAyah": 9,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 105,
+      "nameArabic": "الفيل",
+      "nameLatin": "Al-Fil",
+      "translation": "Gajah",
+      "totalAyah": 5,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 106,
+      "nameArabic": "قريش",
+      "nameLatin": "Quraisy",
+      "translation": "Quraisy",
+      "totalAyah": 4,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 107,
+      "nameArabic": "الماعون",
+      "nameLatin": "Al-Ma'un",
+      "translation": "Barang Yang Berguna",
+      "totalAyah": 7,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 108,
+      "nameArabic": "الكوثر",
+      "nameLatin": "Al-Kausar",
+      "translation": "Pemberian Yang Banyak",
+      "totalAyah": 3,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 109,
+      "nameArabic": "الكافرون",
+      "nameLatin": "Al-Kafirun",
+      "translation": "Orang-Orang kafir",
+      "totalAyah": 6,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 110,
+      "nameArabic": "النصر",
+      "nameLatin": "An-Nasr",
+      "translation": "Pertolongan",
+      "totalAyah": 3,
+      "revelationType": "Medinan"
+    },
+    {
+      "number": 111,
+      "nameArabic": "المسد",
+      "nameLatin": "Al-Lahab",
+      "translation": "Api Yang Bergejolak",
+      "totalAyah": 5,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 112,
+      "nameArabic": "الإخلاص",
+      "nameLatin": "Al-Ikhlas",
+      "translation": "Ikhlas",
+      "totalAyah": 4,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 113,
+      "nameArabic": "الفلق",
+      "nameLatin": "Al-Falaq",
+      "translation": "Subuh",
+      "totalAyah": 5,
+      "revelationType": "Meccan"
+    },
+    {
+      "number": 114,
+      "nameArabic": "الناس",
+      "nameLatin": "An-Nas",
+      "translation": "Manusia",
+      "totalAyah": 6,
+      "revelationType": "Meccan"
+    }
+  ],
+  "ayahs": [
+    {
+      "surahNumber": 1,
+      "ayahNumber": 1,
+      "verseKey": "1:1",
+      "arabicText": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "translationId": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 2,
+      "verseKey": "1:2",
+      "arabicText": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+      "translationId": "Segala puji bagi Allah, Tuhan seluruh alam."
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 3,
+      "verseKey": "1:3",
+      "arabicText": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+      "translationId": "Yang Maha Pengasih, Maha Penyayang."
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 4,
+      "verseKey": "1:4",
+      "arabicText": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+      "translationId": "Pemilik hari pembalasan."
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 5,
+      "verseKey": "1:5",
+      "arabicText": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+      "translationId": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan."
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 6,
+      "verseKey": "1:6",
+      "arabicText": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ",
+      "translationId": "Tunjukilah kami jalan yang lurus."
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 7,
+      "verseKey": "1:7",
+      "arabicText": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+      "translationId": "(Yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan jalan mereka yang dimurkai, dan bukan pula jalan mereka yang sesat."
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 1,
+      "verseKey": "2:1",
+      "arabicText": "الۤمّۤ ۚ",
+      "translationId": "Alif Lam Mim."
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 2,
+      "verseKey": "2:2",
+      "arabicText": "ذٰلِكَ الْكِتٰبُ لَا رَيْبَ ۛ فِيْهِ ۛ هُدًى لِّلْمُتَّقِيْنَۙ",
+      "translationId": "Kitab (Al-Qur'an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa."
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 3,
+      "verseKey": "2:3",
+      "arabicText": "الَّذِيْنَ يُؤْمِنُوْنَ بِالْغَيْبِ وَيُقِيْمُوْنَ الصَّلٰوةَ وَمِمَّا رَزَقْنٰهُمْ يُنْفِقُوْنَ ۙ",
+      "translationId": "(Yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka."
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 4,
+      "verseKey": "2:4",
+      "arabicText": "وَالَّذِيْنَ يُؤْمِنُوْنَ بِمَآ اُنْزِلَ اِلَيْكَ وَمَآ اُنْزِلَ مِنْ قَبْلِكَ ۚ وَبِالْاٰخِرَةِ هُمْ يُوْقِنُوْنَۗ",
+      "translationId": "Dan mereka yang beriman kepada yang diturunkan kepadamu dan yang telah diturunkan sebelum engkau, dan mereka yakin akan adanya akhirat."
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 5,
+      "verseKey": "2:5",
+      "arabicText": "اُولٰۤىِٕكَ عَلٰى هُدًى مِّنْ رَّبِّهِمْ ۙ وَاُولٰۤىِٕكَ هُمُ الْمُفْلِحُوْنَ",
+      "translationId": "Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang yang beruntung."
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 6,
+      "verseKey": "2:6",
+      "arabicText": "اِنَّ الَّذِيْنَ كَفَرُوْا سَوَاۤءٌ عَلَيْهِمْ ءَاَنْذَرْتَهُمْ اَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُوْنَ",
+      "translationId": "Sesungguhnya orang-orang kafir, sama saja bagi mereka, engkau beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman."
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 7,
+      "verseKey": "2:7",
+      "arabicText": "خَتَمَ اللّٰهُ عَلٰى قُلُوْبِهِمْ وَعَلٰى سَمْعِهِمْ ۗ وَعَلٰٓى اَبْصَارِهِمْ غِشَاوَةٌ وَّلَهُمْ عَذَابٌ عَظِيْمٌ ࣖ",
+      "translationId": "Allah telah mengunci hati dan pendengaran mereka, penglihatan mereka telah tertutup, dan mereka akan mendapat azab yang berat."
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 8,
+      "verseKey": "2:8",
+      "arabicText": "وَمِنَ النَّاسِ مَنْ يَّقُوْلُ اٰمَنَّا بِاللّٰهِ وَبِالْيَوْمِ الْاٰخِرِ وَمَا هُمْ بِمُؤْمِنِيْنَۘ",
+      "translationId": "Dan di antara manusia ada yang berkata, “Kami beriman kepada Allah dan hari akhir,” padahal sesungguhnya mereka itu bukanlah orang-orang yang beriman."
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 9,
+      "verseKey": "2:9",
+      "arabicText": "يُخٰدِعُوْنَ اللّٰهَ وَالَّذِيْنَ اٰمَنُوْا ۚ وَمَا يَخْدَعُوْنَ اِلَّآ اَنْفُسَهُمْ وَمَا يَشْعُرُوْنَۗ",
+      "translationId": "Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka sadari."
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 10,
+      "verseKey": "2:10",
+      "arabicText": "فِيْ قُلُوْبِهِمْ مَّرَضٌۙ فَزَادَهُمُ اللّٰهُ مَرَضًاۚ وَلَهُمْ عَذَابٌ اَلِيْمٌ ۢ ەۙ بِمَا كَانُوْا يَكْذِبُوْنَ",
+      "translationId": "Dalam hati mereka ada penyakit, lalu Allah menambah penyakitnya itu; dan mereka mendapat azab yang pedih karena mereka berdusta."
+    }
+  ]
+}
